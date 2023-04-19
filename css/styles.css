@@ -19,6 +19,10 @@ header {
     height: calc(120px + 32px);
     
 }
+header div {
+    width: 100%;
+    display: flex;
+}
 
 header div a{
     transition: transform .3s;
@@ -35,9 +39,10 @@ header div a:hover {
     
 }
 
-header img{
-    width:100%;
+.git-img{
+    width: 7rem;
     border-radius: 50%;
+    
 }
 
 body{
