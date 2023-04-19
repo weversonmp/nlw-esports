@@ -114,7 +114,7 @@ li:hover{
 /* Start Animation*/
 
 header div {
-    animation: fromTop .5s .2s backwards;
+    animation: fromTop .9s backwards;
 }
 
 @keyframes fromTop {
